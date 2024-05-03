@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm rudrani mishra</h1>
 <h3 align="center">A passionate data science and ai/ml from India</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://dribbble.com/shots/18907911-Kid-Coding-Girl/attachments/14081669?mode=media)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudrani02&label=Profile%20views&color=0e75b6&style=flat" alt="rudrani02" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
